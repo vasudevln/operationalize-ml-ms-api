@@ -1,4 +1,4 @@
-[![vasudevln](https://circleci.com/gh/vasudevln/operationalize-ml-ms-app.svg?style=svg)](https://circleci.com/gh/vasudevln/operationalize-ml-ms-app)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 ## Project Overview
 
