@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![vasudevln](https://circleci.com/github/vasudevln/operationalize-ml-ms-app.svg?style=svg)](https://circleci.com/github/vasudevln/operationalize-ml-ms-app)
 
 ## Project Overview
 
